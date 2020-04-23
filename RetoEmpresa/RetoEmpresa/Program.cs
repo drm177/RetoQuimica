@@ -480,7 +480,7 @@ namespace RetoEmpresa
                         }
                     } //Configuración Atomica
                     Console.Clear();
-                    Console.Write("Elemento: " + elemento + "\nSimbolo: " + simbolo + "\nConfiguración Electronica:\n" + texto + resultado);
+                    Console.Write("Elemento: " + elemento + "\nSimbolo: " + simbolo + "\nNúmero Atomico: " + numeroAtomico + "\nConfiguración Electronica:\n" + texto + resultado);
                     Console.ReadKey();
                 }
                 else
